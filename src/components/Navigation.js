@@ -24,7 +24,7 @@ export default function Navigation() {
   const handlePageChange = (page) => setCurrentPage(page);
 
   return (
-    <div>
+    <div className="">
       <Header currentPage={currentPage} handlePageChange={handlePageChange} />
       {renderPage()}
     </div>

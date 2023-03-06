@@ -1,11 +1,12 @@
 import Navigation from './components/Navigation';
+import Footer from './components/Footer';
 import './App.css';
 
 function App() {
   return (
-    <div className=" ">
-      <Navigation />
-      <div className="bg-red-200 text-2xl">Hello world</div>
+    <div >
+      <Navigation  />
+      <Footer  />
     </div>
   );
 }
