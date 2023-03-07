@@ -1,18 +1,20 @@
 import React from 'react'
+import img from "../../photo.png";
 
 export default function About() {
   return (
-    <div>
+    <div className='pl-20 my-40 leading-10 relative'>
+      <img src={img} alt='personal' className='absolute right-4'></img>
       <h1>
         Hi, my name is
-        <p>Lantao Zhang.</p>
+        <p className='text-3xl font-extrabold tracking-wider text-stone-50'>Lantao Zhang.</p>
         <p>I build things for the web.</p>
       </h1>
       <p>
         I'm a software engineer specializing in building exceptional digital experiences. 
       </p>
       <p>
-        Check out!
+        Check it out!
       </p>
     </div>
   )
