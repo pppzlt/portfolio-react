@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bc-react-portfolio/static/css/main.06b9b778.css",
+    "main.js": "/bc-react-portfolio/static/js/main.ff9643e2.js",
+    "static/js/787.1ed0c42c.chunk.js": "/bc-react-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/webdev4.png": "/bc-react-portfolio/static/media/webdev4.eb653cedc8b5d9e695e8.png",
+    "static/media/webdev1.png": "/bc-react-portfolio/static/media/webdev1.79a20dacc0d3672b6181.png",
+    "static/media/webdev2.png": "/bc-react-portfolio/static/media/webdev2.3f5e22ddd771083d4b01.png",
+    "static/media/webdev5.png": "/bc-react-portfolio/static/media/webdev5.4020742bc046fa07e63c.png",
+    "static/media/webdev6.png": "/bc-react-portfolio/static/media/webdev6.2be016a7289defd5bb53.png",
+    "static/media/webdev3.png": "/bc-react-portfolio/static/media/webdev3.9c1150152fbc1f72263b.png",
+    "static/media/photo.png": "/bc-react-portfolio/static/media/photo.2d20ffcf917998e18678.png",
+    "static/media/linkedin.svg": "/bc-react-portfolio/static/media/linkedin.d494a7045f441ea101b086c859a7ef1d.svg",
+    "static/media/github-mark.svg": "/bc-react-portfolio/static/media/github-mark.2c2266f0b9e63950491d917d651b570c.svg",
+    "static/media/github-mark-white.svg": "/bc-react-portfolio/static/media/github-mark-white.34b8603da86ae811f6253a7edf10a5c7.svg",
+    "index.html": "/bc-react-portfolio/index.html",
+    "main.06b9b778.css.map": "/bc-react-portfolio/static/css/main.06b9b778.css.map",
+    "main.ff9643e2.js.map": "/bc-react-portfolio/static/js/main.ff9643e2.js.map",
+    "787.1ed0c42c.chunk.js.map": "/bc-react-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06b9b778.css",
+    "static/js/main.ff9643e2.js"
+  ]
+}
