@@ -2,7 +2,8 @@ import React from "react";
 
 function Header({ currentPage, handlePageChange }) {
   return (
-    <nav className="h-10 flex items-center justify-end text-2xl">
+    <nav className="h-10 flex items-center justify-between text-2xl">
+      <div className="ml-10">Lantao Zhang</div>
       <ul className="flex flex-row justify-end items-center ">
         <li className="px-2 ">
           <a
