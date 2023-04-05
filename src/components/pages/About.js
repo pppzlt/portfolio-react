@@ -3,7 +3,7 @@ import img from "../../photo.png";
 
 export default function About() {
   return (
-    <div className='pl-20 my-40 leading-10 relative'>
+    <div className='flex-col text-center my-40 leading-10 relative'>
       <img src={img} alt='personal' className='absolute right-4'></img>
       <h1>
         Hi, my name is

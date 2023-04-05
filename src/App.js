@@ -8,7 +8,7 @@ import { useEffect } from 'react';
 function App() {
 
   useEffect(() => {
-    document.title = "Lantao Zhang"
+    document.title = "Lantao Zhang Portfolio"
   })
   return (
     <div >
